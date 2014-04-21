@@ -16,9 +16,14 @@ h1{
 }
 
 .show{
+	margin-right: 200px;
+	margin-left: 200px;
 	text-align: center;
 	color:white;
 	font-family: Georgia, Times, "Times New Roman", serif;
+	-webkit-box-shadow: inset 10px 10px 115px 27px rgba(140,140,140,0.52);
+	-moz-box-shadow: inset 10px 10px 115px 27px rgba(140,140,140,0.52);
+	box-shadow: inset 10px 10px 115px 27px rgba(140,140,140,0.52);
 }
 
 img{
